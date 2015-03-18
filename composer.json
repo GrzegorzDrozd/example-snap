@@ -1,0 +1,13 @@
+{
+  "name": "grzegorzdrozd/example-snap",
+  "description": "Example application. Simple game that can be played in text console. ",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Grzegorz Drozd",
+      "email": "grzegorz.drozd@gmail.com"
+    }
+  ]
+}
+
